@@ -1,4 +1,3 @@
-
 # Basic Clock Web App
 
 A simple, real-time digital clock built using **HTML**, **CSS**, and **JavaScript**. This web app displays the current time in a clean and minimalist format, refreshing every second to keep the time accurate.
