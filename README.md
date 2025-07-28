@@ -1,10 +1,8 @@
----
-
 # Side Projects Portfolio
 
 Welcome to my collection of web-based side projects created during my internship. This repository includes a variety of interactive web apps built using **HTML**, **CSS**, and **JavaScript**. Each project is designed to showcase my skills in front-end development, user interface design, and problem-solving. These projects are simple yet effective in demonstrating core web development principles.
 
-### Projects:
+## Projects:
 
 1. **[Blackjack Web Game](#blackjack-web-game)**
 
@@ -34,21 +32,22 @@ Welcome to my collection of web-based side projects created during my internship
 
    * A weather application that provides real-time weather updates, including temperature, humidity, wind speed. It uses the **OpenWeather API** for fetching weather data.
 
-### Technologies Used:
+## Technologies Used:
 
 * **HTML5**: Structure of the web pages.
 * **CSS3**: Styling for the user interfaces (responsive design).
 * **JavaScript**: Interactive elements and logic for each app.
 * **APIs**: Integration with third-party services like the **OpenWeather API** for weather data.
 
-### Features Across Projects:
+## Features Across Projects:
 
 * **Responsive Design**: All apps are fully responsive, ensuring a seamless user experience across both desktop and mobile devices.
 * **Interactive Interfaces**: Intuitive UI/UX that prioritizes ease of use.
 * **Local Storage Support**: Some apps (like the To-Do List) utilize browser storage to retain data.
 * **No External Libraries**: Most projects are built with vanilla HTML, CSS, and JavaScript (except where APIs are used).
 
-### How to Run These Projects:
+---
+## How to Run These Projects:
 
 1. **Clone the repository**:
 
@@ -63,9 +62,6 @@ Welcome to my collection of web-based side projects created during my internship
    ```
 
 3. **Open the index.html file in your browser** to start any of the web apps.
-
 ---
 
 Feel free to modify, contribute, or use these projects for learning or practice. If you have any questions or suggestions, please feel free to open an issue or submit a pull request!
-
----
