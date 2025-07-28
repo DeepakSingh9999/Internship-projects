@@ -1,5 +1,5 @@
 
-# Calculator Web App
+# Calculator App
 
 A simple and intuitive web-based calculator designed for quick and efficient arithmetic operations. Built using **HTML**, **CSS**, and **JavaScript**, this app allows users to perform basic mathematical calculations like addition, subtraction, multiplication, and division.
 
