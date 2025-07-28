@@ -1,6 +1,6 @@
 # Weather App
 
-A sleek and user-friendly **Weather Web App** built using **HTML**, **CSS**, and **JavaScript** that provides real-time weather updates for any location around the world. Powered by the **OpenWeather API**, this app allows users to check the current weather, forecast, and more, all in an easy-to-navigate interface.
+A sleek and user-friendly **Weather Web App** built using **HTML**, **CSS**, and **JavaScript** that provides real-time weather updates for any location around the world. Powered by the **OpenWeatherMap API**, this app allows users to check the current weather, forecast, and more, all in an easy-to-navigate interface.
 
 ## Features:
 
