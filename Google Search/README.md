@@ -1,4 +1,4 @@
-# Google Search Web App
+# Google Search App
 
 A fully functional web-based **Google Search** app that allows users to perform searches across web pages, images, and access advanced search features, all from a sleek, user-friendly interface. Built using **HTML**, **CSS**, and **JavaScript**, this app mimics the core features of Google Search, providing quick and accurate results for any query.
 
