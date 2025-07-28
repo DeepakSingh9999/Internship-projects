@@ -1,4 +1,4 @@
-# Blackjack Web Game
+# Blackjack Game
 
 A simple, interactive, and fun web-based Blackjack game built using **HTML**, **CSS**, and **JavaScript**. This game simulates the classic card game where the player competes against the dealer, aiming to reach a hand value of 21 without exceeding it.
 
