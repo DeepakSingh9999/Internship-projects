@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Web App
+# Tic-Tac-Toe
 
 A fun, interactive, and responsive web-based **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaScript**. This app allows two players to challenge each other on the classic 3x3 grid, aiming to get three marks (X or O) in a row, column, or diagonal to win the game.
 
