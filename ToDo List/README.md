@@ -1,4 +1,4 @@
-# To-Do List Web App
+# To-Do List
 
 A simple, efficient, and intuitive **To-Do List** web app built using **HTML**, **CSS**, and **JavaScript**. This app helps users stay organized by allowing them to create, manage, and track tasks. Whether it's for daily chores, work assignments, or project deadlines, this app provides an easy way to keep track of everything that needs to be done.
 
