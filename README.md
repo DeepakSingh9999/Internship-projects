@@ -69,5 +69,3 @@ Welcome to my collection of web-based side projects created during my internship
 Feel free to modify, contribute, or use these projects for learning or practice. If you have any questions or suggestions, please feel free to open an issue or submit a pull request!
 
 ---
-
-You can adjust the specifics of the description based on your personal experience or how you want to present your projects. Would you like any further adjustments or additions to the content?
