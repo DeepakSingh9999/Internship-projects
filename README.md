@@ -4,33 +4,33 @@ Welcome to my collection of web-based side projects created during my internship
 
 ## Projects:
 
-1. **[Blackjack Web Game](#blackjack-web-game)**
+1. **[Blackjack Game](#blackjack-web-game)**
 
    * A classic Blackjack game where players compete against the dealer to get as close to 21 points as possible without going over. The game includes automatic win detection and a user-friendly interface.
 
-2. **[Calculator Web App](#calculator-web-app)**
+2. **[Calculator App](#calculator-web-app)**
 
    * A simple, responsive calculator that supports basic arithmetic operations. The app is designed with a clean, intuitive interface for ease of use, with error handling and a clear button to reset calculations.
 
-3. **[Basic Clock Web App](#basic-clock-web-app)**
+3. **[Basic Clock App](#basic-clock-web-app)**
 
    * A real-time digital clock that displays the current time, updating every second. It is a lightweight and simple app built with pure JavaScript, perfect for showing the time in a web environment.
 
-4. **[Google Search Web App](#google-search-web-app)**
+4. **[Google Search App](#google-search-web-app)**
 
    * A fully functional search app mimicking Google Search. This app supports web search, image search, and advanced search features such as filtering by date range, file type, and more.
 
-5. **[Tic-Tac-Toe Web App](#tic-tac-toe-web-app)**
+5. **[Tic-Tac-Toe App](#tic-tac-toe-web-app)**
 
    * A two-player Tic-Tac-Toe game with a simple and clean interface. The app automatically detects when a player wins and offers an option to reset the game.
 
-6. **[To-Do List Web App](#to-do-list-web-app)**
+6. **[To-Do List App](#to-do-list-web-app)**
 
    * A task management app that helps users stay organized by adding, marking, and deleting tasks. The app stores data using **localStorage**, so tasks persist even if the page is refreshed.
 
-7. **[Weather Web App](#weather-web-app)**
+7. **[Weather App](#weather-web-app)**
 
-   * A weather application that provides real-time weather updates, including temperature, humidity, wind speed. It uses the **OpenWeather API** for fetching weather data.
+   * A weather application that provides real-time weather updates, including temperature, humidity, wind speed. It uses the **openweathermap.org API** for fetching weather data.
 
 ## Technologies Used:
 
